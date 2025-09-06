@@ -106,7 +106,7 @@ This will:
 Create a `.env` file in the **backend** folder with the following:
 
 ```env
-PORT=5000
+PORT=5001
 MONGO_URI=<your-mongodb-connection-string>
 REDIS_URL=<your-redis-url>
 ```
@@ -117,7 +117,7 @@ REDIS_URL=<your-redis-url>
 npm start
 ```
 
-* Backend will run on: [http://localhost:5000](http://localhost:5000)
+* Backend will run on: [http://localhost:5001](http://localhost:5001)
 * Frontend will be served from the backend build at the same port
 
 ---
