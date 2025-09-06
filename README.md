@@ -9,35 +9,48 @@
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Rate--Limiting-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge" />
+  <a href="https://mern-thinkboard-4d5o.onrender.com"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" /></a>
 </p>
 
 ---
 
-A modern, responsive **note-taking web app** built with the **MERN stack**.  
+A modern, responsive **note-taking web app** built with the **MERN stack**.
 ThinkBoard lets you create, edit, and organize your notes seamlessly, with **Redis-powered rate limiting** and a beautiful UI using **TailwindCSS + DaisyUI**.
 
-🌍 **Live Demo:** [MERN ThinkBoard](https://mern-thinkboard-4d5o.onrender.com)  
+🌍 **Live Demo:** [MERN ThinkBoard](https://mern-thinkboard-4d5o.onrender.com)
 📦 **Repository:** [GitHub Repo](https://github.com/Krtyaka/mern-thinkboard)
+
+---
+
+## 📑 Table of Contents
+
+* [Features](#-features)
+* [Tech Stack](#-tech-stack)
+* [Project Structure](#-project-structure)
+* [Getting Started](#-getting-started)
+* [Deployment](#-deployment)
+* [Planned Features](#-planned-features)
+* [Author](#-author)
 
 ---
 
 ## 🚀 Features
 
-- 📝 **CRUD Notes** – Create, update, and delete notes effortlessly  
-- 🎨 **Modern UI** – TailwindCSS + DaisyUI for sleek, responsive design  
-- 🛡 **Secure API** – Redis-based rate limiting to prevent abuse  
-- 🌐 **Client Routing** – Smooth navigation with React Router  
-- 📱 **Responsive** – Optimized for both desktop and mobile devices  
+* 📝 **CRUD Notes** – Create, update, and delete notes effortlessly
+* 🎨 **Modern UI** – TailwindCSS + DaisyUI for sleek, responsive design
+* 🛡 **Secure API** – Redis-based rate limiting to prevent abuse
+* 🌐 **Client Routing** – Smooth navigation with React Router
+* 📱 **Responsive** – Optimized for both desktop and mobile devices
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, React Router, TailwindCSS, DaisyUI  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (Atlas)  
-- **Security:** Redis Rate Limiting (JWT Auth coming soon 🚧)  
-- **Deployment:** Render (frontend & backend)  
+* **Frontend:** React, React Router, TailwindCSS, DaisyUI
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB (Atlas)
+* **Security:** Redis Rate Limiting (JWT Auth coming soon 🚧)
+* **Deployment:** Render (frontend & backend)
 
 ---
 
@@ -74,9 +87,10 @@ npm run build
 ```
 
 This will:
-- Install **backend dependencies**
-- Install **frontend dependencies**
-- Build the **frontend**
+
+* Install **backend dependencies**
+* Install **frontend dependencies**
+* Build the **frontend**
 
 ### 3️⃣ Setup environment variables
 
@@ -94,60 +108,39 @@ REDIS_URL=<your-redis-url>
 npm start
 ```
 
-- Backend will run on: [http://localhost:5000](http://localhost:5000)  
-- Frontend will be served from the backend build at the same port  
-
----
-
-## 📸 Screenshots
-
-(Add screenshots or GIFs here later to showcase your app)
-
-| Home Page | Notes Dashboard | Mobile View |
-|-----------|-----------------|-------------|
-| ![Home](screenshots/home.png) | ![Dashboard](screenshots/dashboard.png) | ![Mobile](screenshots/mobile.png) |
+* Backend will run on: [http://localhost:5000](http://localhost:5000)
+* Frontend will be served from the backend build at the same port
 
 ---
 
 ## 🚀 Deployment
 
-The project is deployed on **Render**:  
+The project is deployed on **Render**:
 👉 [MERN ThinkBoard Live](https://mern-thinkboard-4d5o.onrender.com)
 
 ### Steps:
-1. Create a **Web Service** for the backend  
-2. Set build command:  
+
+1. Create a **Web Service** for the backend
+2. Set build command:
+
    ```bash
    npm run build
-   ```  
-3. Set start command:  
+   ```
+3. Set start command:
+
    ```bash
    npm start
-   ```  
-4. Add environment variables (`MONGO_URI`, `REDIS_URL`) in Render dashboard  
-5. The backend will serve both API and built frontend  
+   ```
+4. Add environment variables (`MONGO_URI`, `REDIS_URL`) in Render dashboard
+5. The backend will serve both API and built frontend
 
 ---
 
 ## 🗺 Planned Features
 
-- 🔑 JWT Authentication (login & signup)  
-- 📂 Note categories & tags  
-- 🌙 Dark mode  
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork the repo, submit a PR, or open an issue.  
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.  
+* 🔑 JWT Authentication (login & signup)
+* 📂 Note categories & tags
+* 🌙 Light/Dark mode toggle
 
 ---
 
