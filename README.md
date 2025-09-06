@@ -23,8 +23,14 @@ A modern, responsive **note-taking web app** built with the **MERN stack**.
 ThinkBoard lets you create, edit, and organize your notes seamlessly, with **Redis-powered rate limiting** and a beautiful UI using **TailwindCSS + DaisyUI**.
 
 <p align="center">
-  <a href="https://mern-thinkboard-4d5o.onrender.com" style="text-decoration:none; padding:8px 16px; background-color:#3b82f6; color:white; border-radius:5px;">🌍 Live Demo</a>
-  <a href="https://github.com/Krtyaka/mern-thinkboard" style="text-decoration:none; padding:8px 16px; background-color:#111; color:white; border-radius:5px; margin-left:10px;">📦 GitHub Repo</a>
+  <a href="https://mern-thinkboard-4d5o.onrender.com" 
+     style="display:inline-block; width:180px; text-align:center; text-decoration:none; padding:12px 0; background-color:#3b82f6; color:white; font-weight:bold; border-radius:8px; margin-right:20px;">
+    🌍 Live Demo
+  </a>
+  <a href="https://github.com/Krtyaka/mern-thinkboard" 
+     style="display:inline-block; width:180px; text-align:center; text-decoration:none; padding:12px 0; background-color:#111; color:white; font-weight:bold; border-radius:8px; margin-left:20px;">
+    📦 GitHub Repo
+  </a>
 </p>
 
 
@@ -32,13 +38,15 @@ ThinkBoard lets you create, edit, and organize your notes seamlessly, with **Red
 
 ## 📑 Table of Contents
 
-* [Features](#-features)
-* [Tech Stack](#-tech-stack)
-* [Project Structure](#-project-structure)
-* [Getting Started](#-getting-started)
-* [Deployment](#-deployment)
-* [Planned Features](#-planned-features)
-* [Author](#-author)
+<p align="center">
+  <a href="#-features" style="display:inline-block; margin:5px; padding:5px 10px; background:#38B2AC; color:white; border-radius:5px; text-decoration:none;">📝 Features</a>
+  <a href="#-tech-stack" style="display:inline-block; margin:5px; padding:5px 10px; background:#5A0EF8; color:white; border-radius:5px; text-decoration:none;">🛠 Tech Stack</a>
+  <a href="#-project-structure" style="display:inline-block; margin:5px; padding:5px 10px; background:#43853D; color:white; border-radius:5px; text-decoration:none;">📂 Project Structure</a>
+  <a href="#-getting-started" style="display:inline-block; margin:5px; padding:5px 10px; background:#DC382D; color:white; border-radius:5px; text-decoration:none;">⚙️ Getting Started</a>
+  <a href="#-deployment" style="display:inline-block; margin:5px; padding:5px 10px; background:#46E3B7; color:white; border-radius:5px; text-decoration:none;">🚀 Deployment</a>
+  <a href="#-planned-features" style="display:inline-block; margin:5px; padding:5px 10px; background:#F59E0B; color:white; border-radius:5px; text-decoration:none;">🗺 Planned Features</a>
+  <a href="#-author" style="display:inline-block; margin:5px; padding:5px 10px; background:#111111; color:white; border-radius:5px; text-decoration:none;">👨‍💻 Author</a>
+</p>
 
 ---
 
