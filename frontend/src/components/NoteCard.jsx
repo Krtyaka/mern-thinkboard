@@ -4,7 +4,8 @@ import { formatDate } from "../lib/utils";
 import api from "../lib/axios";
 import toast from "react-hot-toast";
 
-const NoteCard = ({ _id, note, setNotes }) => {
+const NoteCard = ({ note, setNotes }) => {
+  const { _id } = note;
   const handleDelete = async (e, id) => {
     e.preventDefault(); //so that we dont get redirected as the whole card is clickable (get rid of the navigation behaviour)
 
