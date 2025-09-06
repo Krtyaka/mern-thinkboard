@@ -1,13 +1,16 @@
 # ✨ MERN ThinkBoard
 
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)  
-![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css)  
-![DaisyUI](https://img.shields.io/badge/UI-DaisyUI-5A0EF8?logo=tailwind-css)  
-![Node.js](https://img.shields.io/badge/Backend-Node.js-43853D?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Framework-Express.js-000000?logo=express)  
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)  
-![Redis](https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis)  
-![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-DaisyUI-5A0EF8?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+</p>
 
 --- 
 
