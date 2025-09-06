@@ -7,10 +7,10 @@
   <img src="https://img.shields.io/badge/Backend-Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rate--Limiting-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
 </p>
+
 
 --- 
 
