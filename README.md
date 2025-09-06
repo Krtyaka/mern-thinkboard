@@ -37,6 +37,16 @@ ThinkBoard lets you create, edit, and organize your notes seamlessly, with **Red
   </tr>
 </table>
 
+<div align="center">
+  <a href="https://mern-thinkboard-4d5o.onrender.com">
+    <img src="https://img.shields.io/badge/🌍%20Try%20MERN%20ThinkBoard%20Live%20Demo-1E3A8A?style=for-the-badge&logo=appveyor&logoColor=white" />
+  </a>
+  <a href="https://github.com/Krtyaka/mern-thinkboard" style="margin-left: 20px;">
+    <img src="https://img.shields.io/badge/📦%20View%20on%20GitHub%20Repository-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+
 ---
 
 ## 📑 Table of Contents
