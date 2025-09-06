@@ -22,15 +22,13 @@
 A modern, responsive **note-taking web app** built with the **MERN stack**.
 ThinkBoard lets you create, edit, and organize your notes seamlessly, with **Redis-powered rate limiting** and a beautiful UI using **TailwindCSS + DaisyUI**.
 
-<p align="left">
+<p align="center">
   <a href="https://mern-thinkboard-4d5o.onrender.com">
-    <img src="https://img.shields.io/badge/%20Try%20MERN%20ThinkBoard%20Live%20Demo-4C9EEB?style=for-the-badge&logo=appveyor" />
+    <img src="https://img.shields.io/badge/🌍%20Try%20MERN%20ThinkBoard%20Live%20Demo-1E3A8A?style=for-the-badge&logo=appveyor&logoColor=white" />
   </a>
-</p>
-
-<p align="right">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Krtyaka/mern-thinkboard">
-    <img src="https://img.shields.io/badge/%20GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/📦%20View%20on%20GitHub%20Repository-333333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
