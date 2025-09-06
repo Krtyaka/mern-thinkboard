@@ -1,10 +1,6 @@
 # ✨ MERN ThinkBoard
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/your-gif.gif" width="600"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI-DaisyUI-5A0EF8?logo=tailwind-css&logoColor=white&style=for-the-badge" />
@@ -26,8 +22,15 @@
 A modern, responsive **note-taking web app** built with the **MERN stack**.
 ThinkBoard lets you create, edit, and organize your notes seamlessly, with **Redis-powered rate limiting** and a beautiful UI using **TailwindCSS + DaisyUI**.
 
-<p> 🌍 **Live Demo:** [MERN ThinkBoard](https://mern-thinkboard-4d5o.onrender.com) </p>
-<p> 📦 **Repository:** [GitHub Repo](https://github.com/Krtyaka/mern-thinkboard) </p>
+<p align="center">
+  <a href="https://mern-thinkboard-4d5o.onrender.com">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Krtyaka/mern-thinkboard">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
