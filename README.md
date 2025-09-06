@@ -9,10 +9,6 @@
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Rate--Limiting-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge" />
-  <p align="center">
-  <a href="https://mern-thinkboard-4d5o.onrender.com">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" />
-  </a>
 </p>
 
 </p>
