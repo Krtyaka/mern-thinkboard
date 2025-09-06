@@ -70,7 +70,9 @@ cd mern-thinkboard
 
 ### 2️⃣ Install & Build
 
+```bash
 npm run build
+```
 
 This will:
 - Install backend dependencies
@@ -86,7 +88,9 @@ Create a .env file in the backend folder with the following:
 
 ### 4️⃣ Run locally
 
+```bash
 npm start
+```
 
 - Backend will run on: http://localhost:5000
 - Frontend will be served from the backend build at the same port
