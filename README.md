@@ -1,16 +1,15 @@
 # ✨ MERN ThinkBoard
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI-DaisyUI-5A0EF8?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rate--Limiting-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render&logoColor=white&style=for-the-badge" />
-</p>
-
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/UI-DaisyUI-5A0EF8?logo=tailwind-css&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Backend-Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Rate--Limiting-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Deploy-Frontend%20on%20Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Deploy-Backend%20on%20Render-46E3B7?logo=render&logoColor=white&style=for-the-badge" /> 
 </p>
 
 ---
@@ -57,9 +56,9 @@ ThinkBoard lets you create, edit, and organize your notes seamlessly, with **Red
 
 * **Frontend:** React, React Router, TailwindCSS, DaisyUI
 * **Backend:** Node.js, Express.js
-* **Database:** MongoDB (Atlas)
+* **Database:** MongoDB Atlas
 * **Security:** Redis Rate Limiting (JWT Auth coming soon 🚧)
-* **Deployment:** Render (frontend & backend)
+* **Deployment:** Vercel(Frontend), Render(Backend)
 
 ---
 
