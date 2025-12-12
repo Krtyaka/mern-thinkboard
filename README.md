@@ -18,9 +18,16 @@ A modern, responsive **note-taking web app** built with the **MERN stack**.
 ThinkBoard lets you create, edit, and organize your notes seamlessly, with **Redis-powered rate limiting** and a beautiful UI using **TailwindCSS + DaisyUI**.
 
 <div align="center">
-  <p><a href="https://mern-thinkboard-4d5o.onrender.com">
-    <img src="https://img.shields.io/badge/%20Try%20MERN%20ThinkBoard%20Live%20Demo-1E3A8A?style=for-the-badge&logo=appveyor&logoColor=white" />
-  </a></p>
+  <p>
+    <!-- Frontend Live Demo (Vercel) -->
+    <a href="https://mern-thinkboard-phi-nine.vercel.app">
+      <img src="https://img.shields.io/badge/%20Try%20Frontend%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <!-- Backend API Live (Render) -->
+    <a href="https://mern-thinkboard-1-imhi.onrender.com/api/notes">
+      <img src="https://img.shields.io/badge/%20View%20Backend%20API-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+    </a>
+  </p>
   
   <p><a href="https://github.com/Krtyaka/mern-thinkboard" >
     <img src="https://img.shields.io/badge/%20GitHub%20Repository-333333?style=for-the-badge&logo=github&logoColor=white" />
@@ -104,7 +111,7 @@ This will:
 Create a `.env` file in the **backend** folder with the following:
 
 ```env
-PORT=5001
+PORT=5000
 MONGO_URI=<your-mongodb-connection-string>
 REDIS_URL=<your-redis-url>
 ```
