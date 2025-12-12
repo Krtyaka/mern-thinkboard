@@ -36,7 +36,6 @@ ThinkBoard lets you create, edit, and organize your notes seamlessly, with **Red
 - 🛠 [Tech Stack](#-tech-stack)
 - 📂 [Project Structure](#-project-structure)
 - ⚙️ [Getting Started](#-getting-started)
-- 🚀 [Deployment](#-deployment)
 - 🗺 [Planned Features](#-planned-features)
 - 👨‍💻 [Author](#-author)
 
@@ -116,31 +115,8 @@ REDIS_URL=<your-redis-url>
 npm start
 ```
 
-* Backend will run on: [http://localhost:5001](http://localhost:5001)
+* Backend will run on: [http://localhost:5000](http://localhost:5000)
 * Frontend will be served from the backend build at the same port
-
----
-
-## 🚀 Deployment
-
-The project is deployed on **Render**:
-👉 [MERN ThinkBoard Live](https://mern-thinkboard-4d5o.onrender.com)
-
-### Steps:
-
-1. Create a **Web Service** for the backend
-2. Set build command:
-
-   ```bash
-   npm run build
-   ```
-3. Set start command:
-
-   ```bash
-   npm start
-   ```
-4. Add environment variables (`MONGO_URI`, `REDIS_URL`) in Render dashboard
-5. The backend will serve both API and built frontend
 
 ---
 
