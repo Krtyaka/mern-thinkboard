@@ -20,11 +20,13 @@ ThinkBoard lets you create, edit, and organize your notes seamlessly, with **Red
 <div align="center">
   <p>
     <!-- Frontend Live Demo (Vercel) -->
-    <a href="https://mern-thinkboard-phi-nine.vercel.app">
+    <a href="https://mern-thinkboard-phi-nine.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/%20Try%20Frontend%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
+  </p>
+  <p>
     <!-- Backend API Live (Render) -->
-    <a href="https://mern-thinkboard-1-imhi.onrender.com/api/notes">
+    <a href="https://mern-thinkboard-1-imhi.onrender.com/api/notes" target="_blank">
       <img src="https://img.shields.io/badge/%20View%20Backend%20API-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
     </a>
   </p>
