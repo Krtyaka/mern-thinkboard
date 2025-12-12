@@ -12,21 +12,26 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 5000;
 const __dirname = path.resolve();
+const CLIENT_ORIGIN = process.env.CLIENT_URL || "http://localhost:5173";
 
 //middleware
 
-app.use(cors());
 //this middleware will parse JSON bodies: give access to req.body
 app.use(express.json());
 
-//this middleware is for allowing cors - not needed if wanting to deploy under the same URL(production)
-if (process.env.NODE_ENV !== "production") {
-  app.use(
-    cors({
-      origin: "http://localhost:5173",
-    })
-  );
-}
+// Single, explicit CORS config so preflight includes Content-Type
+app.use(
+  cors({
+    origin: CLIENT_ORIGIN,
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization", "Accept"],
+    credentials: true,
+    optionsSuccessStatus: 200,
+  })
+);
+
+// Health check (useful to verify service up)
+app.get("/health", (req, res) => res.status(200).json({ status: "ok" }));
 
 //this middleware is for rate limiting
 app.use(rateLimiter);
