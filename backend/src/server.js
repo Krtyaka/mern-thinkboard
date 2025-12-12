@@ -40,17 +40,6 @@ app.use(rateLimiter);
 //here /api/notes as it was common in all routes so no need to write there again
 app.use("/api/notes", notesRoutes);
 
-// we only want to perform this if we are under production
-
-if (process.env.NODE_ENV === "production") {
-  app.use(express.static(path.join(__dirname, "../frontend/dist")));
-
-  //if there is any other request from /api/notes then we would like to serve our react application
-  app.get("*", (req, res) => {
-    res.sendFile(path.join(__dirname, "../frontend", "dist", "index.html"));
-  });
-}
-
 // app.get("/api/notes", (req, res) => {
 //   res.status(200).send("You got your api working!");
 // });
