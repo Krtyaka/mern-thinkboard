@@ -20,7 +20,7 @@ const noteSchema = new mongoose.Schema(
   }
 );
 
-// Creating a mdoel "Note" based on the above schema
+// Creating a model "Note" based on the above schema
 const Note = mongoose.model("Note", noteSchema);
 
 export default Note;

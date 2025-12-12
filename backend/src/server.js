@@ -15,6 +15,7 @@ const __dirname = path.resolve();
 
 //middleware
 
+app.use(cors());
 //this middleware will parse JSON bodies: give access to req.body
 app.use(express.json());
 
